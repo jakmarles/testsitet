@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/testsitet/static/js/main.fc22ce9f.js",
+    "index.html": "/testsitet/index.html",
+    "main.fc22ce9f.js.map": "/testsitet/static/js/main.fc22ce9f.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.fc22ce9f.js"
+  ]
+}
